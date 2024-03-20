@@ -1,6 +1,5 @@
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
-import { MessagePattern, Payload } from '@nestjs/microservices';
 
 @Controller()
 export class AppController {
@@ -12,12 +11,4 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  // @MessagePattern('create_post')
-  // public async createToken(@Payload() data: any) {
-  //   console.log('data',data);
-  //   return {
-  //     name:"Ramin",
-  //     status:true
-  //   }
-  // } 
 }
