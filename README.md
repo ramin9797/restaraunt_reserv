@@ -6,7 +6,7 @@ $ docker compose build
 $ docker compose up -d
 ```
 
-##TEST - URLS 
+##TEST - SOME URLS  
 POSTMAN DOCUMENTATION - https://documenter.getpostman.com/view/17009682/2sA358eRPX
 ```
 
