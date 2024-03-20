@@ -1,3 +1,8 @@
+##TECHNOLOGIES
+NODE && NEST
+POstgres
+TypeOrm
+Docker and Docker Compose
 
 ## Running the app
 
