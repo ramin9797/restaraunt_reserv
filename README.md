@@ -1,10 +1,10 @@
 ## TECHNOLOGIES
 ```bash
-$ NODE && NEST
-$ POstgres
+$ Node & Nest
+$ Postgres
 $ TypeOrm
 $ Docker and Docker Compose
-
+```
 ## Running the app
 
 ```bash
